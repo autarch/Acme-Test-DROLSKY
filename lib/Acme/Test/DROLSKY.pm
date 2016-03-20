@@ -13,4 +13,4 @@ __END__
 
 =head1 DESCRIPTION
 
-This is a distro I use to test my Dist::Zilla plugins and plugin bundle.
+This is a distribution I use to test my Dist::Zilla plugins and plugin bundle.
