@@ -6,6 +6,11 @@ VERSION
 
     version 0.04
 
+DESCRIPTION
+
+    This is a distribution I use to test my Dist::Zilla plugins and plugin
+    bundle.
+
 AUTHOR
 
     Dave Rolsky <autarch@urth.org>
